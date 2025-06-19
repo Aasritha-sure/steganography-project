@@ -31,6 +31,13 @@ This project demonstrates how to hide and reveal secret text messages inside an 
    ```
    py stegano_reveal.py
    ```
+## 📸 Terminal Output Screenshots
+
+### 🔐 After running stegano_hide.py:
+![Hide message output](hide-output.png)
+
+### 🔍 After running stegano_reveal.py:
+![Reveal message output](reveal-output.png)
 
 ## 📝 Example Message
 
